@@ -1,0 +1,11 @@
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\bin\Debug\DateHandling - lab6_2.exe.config
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\bin\Debug\DateHandling - lab6_2.exe
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\bin\Debug\DateHandling - lab6_2.pdb
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.csproj.AssemblyReference.cache
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling___lab6_2.Form1.resources
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling___lab6_2.Properties.Resources.resources
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.csproj.GenerateResource.cache
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.csproj.CoreCompileInputs.cache
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.exe
+C:\Users\brlop\source\repos\DateHandling - lab6_2\DateHandling - lab6_2\obj\Debug\DateHandling - lab6_2.pdb
