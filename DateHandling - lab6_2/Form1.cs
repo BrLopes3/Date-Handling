@@ -94,7 +94,7 @@ namespace DateHandling___lab6_2
             }
             catch (Exception ex1)
             {
-                MessageBox.Show(ex1.Message, "Data Error!");
+                MessageBox.Show(ex1.Message, "Date Error!");
             }
         }
 
